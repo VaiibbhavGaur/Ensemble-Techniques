@@ -23,7 +23,7 @@ screening step prior to an appointment with a clinician.
 
 # Data Description  
 The data & attributes information for this project is available
-at https://archive.ics.uci.edu/ml/machine-learning-databases/parkinsons/
+at https://archive.ics.uci.edu/ml/machine-learning-databases/parkinsons/  
 The data consists of those diagnosed with Parkinson Disease and those who do not.
 Kindly use parkinsons.data file.  
 This dataset is composed of a range of biomedical voice measurements from 31
@@ -69,11 +69,11 @@ model. What is the impact on the model accuracy? How does regularization
 help? (20 points)
 8. Next implement the Random Forest model and find the accuracy (10 points)  
 
-# Learning Outcomes:
-o Predictive Analytics
-o Ensemble Classifiers – Random Forests
-o Decision Tree Classifier
-o Fine-tuning Model with Grid Search
-o Data Preparation
-o Feature Engineering
-o Visualization
+# Learning Outcomes:  
+o Predictive Analytics  
+o Ensemble Classifiers – Random Forests  
+o Decision Tree Classifier  
+o Fine-tuning Model with Grid Search  
+o Data Preparation  
+o Feature Engineering  
+o Visualization  
