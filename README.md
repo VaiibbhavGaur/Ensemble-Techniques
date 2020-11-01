@@ -15,4 +15,7 @@ Realize that one method is not enough and need to apply multiple methods altoget
 - Bagging
 - Boosting 
 - Random Forests
-- Stacking
+- Stacking  
+
+## Projects  
+- Parkinson's Disease
