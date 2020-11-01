@@ -9,7 +9,7 @@ Realize that one method is not enough and need to apply multiple methods altoget
 - Advantages and Disadvantages
 - Regularization parameters
 
-2. Introduction to Ensemble Learning
+2. Introduction to Ensemble Learning  
 3. Different Ensemble Learning 
 - Bagging
 - Boosting 
