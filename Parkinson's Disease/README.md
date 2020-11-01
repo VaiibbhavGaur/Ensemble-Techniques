@@ -55,4 +55,25 @@ frequency variation
 1. Load the dataset
 2. It is always a good practice to eye-ball raw data to get a feel of the data in terms
 of number of structure of the file, number of attributes, types of attributes and a
-general idea of likely challenges in the dataset. (2.5 points)
+general idea of likely challenges in the dataset. (2.5 points)  
+3. Using univariate & bivariate analysis to check the individual attributes for their
+basic statistics such as central values, spread, tails etc. What are your
+observations? (15 points)
+4. Split the dataset into training and test set in the ratio of 70:30 (Training:Test).
+5. Create a decision tree model using “entropy” method of reducing the entropy and
+fit it to training data. (5 points)
+6. Test the model on test data and what is the accuracy achieved. Capture the
+predicted values and do a crosstab. (7.5 points)
+7. Use regularization parameters of max_depth, min_sample_leaf to recreate the
+model. What is the impact on the model accuracy? How does regularization
+help? (20 points)
+8. Next implement the Random Forest model and find the accuracy (10 points)  
+
+# Learning Outcomes:
+o Predictive Analytics
+o Ensemble Classifiers – Random Forests
+o Decision Tree Classifier
+o Fine-tuning Model with Grid Search
+o Data Preparation
+o Feature Engineering
+o Visualization
